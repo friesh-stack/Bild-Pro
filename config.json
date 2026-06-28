@@ -1,0 +1,167 @@
+{
+  "objects": {
+    "Strandvilla 8a": {
+      "prefix": "strandvilla_8a",
+      "keywords": [
+        "strandvilla 8a",
+        "8a",
+        "villa 8a"
+      ]
+    },
+    "Strandvilla 8b": {
+      "prefix": "strandvilla_8b",
+      "keywords": [
+        "strandvilla 8b",
+        "8b",
+        "villa 8b"
+      ]
+    },
+    "Dünenvilla 3": {
+      "prefix": "duenenvilla_3",
+      "keywords": [
+        "dünenvilla 3",
+        "duenenvilla 3",
+        "fewo 3",
+        "wohnung 3"
+      ]
+    },
+    "Dünenvilla 5": {
+      "prefix": "duenenvilla_5",
+      "keywords": [
+        "dünenvilla 5",
+        "duenenvilla 5",
+        "fewo 5",
+        "wohnung 5"
+      ]
+    }
+  },
+  "categories": {
+    "Außenansicht": {
+      "folder": "01_Aussenansicht",
+      "keywords": [
+        "außen",
+        "aussen",
+        "fassade",
+        "haus",
+        "eingang",
+        "ansicht",
+        "front",
+        "villa"
+      ]
+    },
+    "Stellplatz": {
+      "folder": "02_Stellplatz",
+      "keywords": [
+        "stellplatz",
+        "parkplatz",
+        "auto",
+        "carport",
+        "garage",
+        "einfahrt",
+        "zufahrt"
+      ]
+    },
+    "Garten": {
+      "folder": "03_Garten",
+      "keywords": [
+        "garten",
+        "rasen",
+        "terrasse",
+        "grill",
+        "hecke",
+        "pflanzen",
+        "bäume",
+        "baeume"
+      ]
+    },
+    "Wohnzimmer": {
+      "folder": "04_Wohnzimmer",
+      "keywords": [
+        "wohnzimmer",
+        "sofa",
+        "couch",
+        "sessel",
+        "tv",
+        "fernseher",
+        "kamin",
+        "living"
+      ]
+    },
+    "Küche": {
+      "folder": "05_Kueche",
+      "keywords": [
+        "küche",
+        "kueche",
+        "kitchen",
+        "herd",
+        "backofen",
+        "spüle",
+        "spuele",
+        "kühlschrank",
+        "kuehlschrank"
+      ]
+    },
+    "Schlafzimmer": {
+      "folder": "06_Schlafzimmer",
+      "keywords": [
+        "schlafzimmer",
+        "bett",
+        "doppelbett",
+        "kleiderschrank",
+        "bedroom"
+      ]
+    },
+    "Bad 1": {
+      "folder": "07_Bad_1",
+      "keywords": [
+        "bad 1",
+        "badezimmer 1",
+        "dusche",
+        "waschbecken",
+        "wc",
+        "toilette"
+      ]
+    },
+    "Bad 2": {
+      "folder": "08_Bad_2",
+      "keywords": [
+        "bad 2",
+        "badezimmer 2",
+        "zweites bad",
+        "gäste wc",
+        "gaeste wc",
+        "wc 2"
+      ]
+    },
+    "Flur": {
+      "folder": "09_Flur",
+      "keywords": [
+        "flur",
+        "eingang",
+        "garderobe",
+        "treppe",
+        "diele"
+      ]
+    },
+    "Aussicht": {
+      "folder": "10_Aussicht",
+      "keywords": [
+        "aussicht",
+        "meer",
+        "strand",
+        "ostsee",
+        "blick",
+        "düne",
+        "duene"
+      ]
+    },
+    "Sonstige": {
+      "folder": "99_Sonstige",
+      "keywords": [
+        "sonstige",
+        "detail",
+        "deko"
+      ]
+    }
+  }
+}
